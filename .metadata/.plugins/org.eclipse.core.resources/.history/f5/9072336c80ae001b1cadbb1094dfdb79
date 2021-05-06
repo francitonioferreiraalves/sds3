@@ -1,0 +1,5 @@
+package com.tito.sds3.config;
+
+public class SecurityConfig {
+
+}
