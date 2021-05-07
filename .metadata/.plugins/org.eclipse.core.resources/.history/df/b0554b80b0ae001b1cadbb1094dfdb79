@@ -1,0 +1,5 @@
+package com.tito.dsvendas.repositories;
+
+public interface SaleRepository {
+
+}

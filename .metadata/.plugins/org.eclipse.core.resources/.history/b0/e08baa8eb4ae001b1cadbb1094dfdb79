@@ -1,0 +1,12 @@
+package com.tito.dsvendas.dto;
+
+public class SellerDto {
+
+	private Long id;
+	private String name;
+
+	public SellerDto() {
+
+	}
+
+}

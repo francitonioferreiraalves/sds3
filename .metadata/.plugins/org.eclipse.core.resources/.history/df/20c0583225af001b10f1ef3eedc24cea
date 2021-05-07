@@ -1,0 +1,5 @@
+package com.tito.dsvendas.dto;
+
+public class SaleDto {
+
+}

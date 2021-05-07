@@ -1,0 +1,12 @@
+package com.tito.dsvendas.services;
+
+import org.springframework.stereotype.Service;
+
+import com.tito.dsvendas.repositories.SaleRepository;
+
+@Service
+public class SaleService {
+
+	private SaleRepository repository;
+
+}
